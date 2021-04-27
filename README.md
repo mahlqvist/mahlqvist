@@ -9,4 +9,4 @@ Thank you for visiting my GitHub profile!
 - 🥋 When not coding I'm passionate about training and wellness
 - 🔗 <a href="https://www.linkedin.com/in/thomas-mahlqvist/">LinkedIn</a>
 
-_"The only man who never makes mistakes, is the man who never does anything."_ - Theodore Roosevelt
+_"Knowing is not enough, we must apply. Willing is not enough, we must do."_ - Bruce Lee
