@@ -3,10 +3,10 @@
 Thank you for visiting my GitHub profile! 
 
 - 💻 I’m a Python enthusiast and I'm curious about anything that has to do with data
-- 🐱‍👤 I’m currently learning about NLP and building chatbots using Python
-- 🕹️ My favorite game is Dark Age of Camelot
+- 🐱‍👤 I’m currently introducing myself to the world of artificial intelligence in Python
+- 🕹️ My favorite game is World of Warcraft
 - 🎬 My favorite movie is The Matrix
-- 📖 My favorite book is The Egyptian
+- 📺 My favorite tv-show is Travelers
 - 🌌 Fun fact: Neutron stars can spin at a rate of 600 rotations per second
 - 🥋 When not coding I'm passionate about training and wellness
 
