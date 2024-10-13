@@ -3,7 +3,7 @@
 Thank you for stopping by! 
 
 - 💻 I'm a Python enthusiast, curious and passionate about solving code and math problems
-- 🐱‍👤 Currently sharpening my skills in machine learning and AI to bring new ideas to life 
+- 🤖 Currently sharpening my skills in machine learning and AI to bring new ideas to life 
 - 🕹️ My most played game is World of Warcraft
 - 🎬 My favorite movie is The Matrix
 - 📚 My favorite book is Project Hail Mary
